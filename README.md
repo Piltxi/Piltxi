@@ -3,13 +3,13 @@
 <p align="center">I'm Elia Pitzalis, a computer enthusiast. I study computer science at the University of Modena and Reggio Emilia.</p>
 
 - 🐣 I’m currently working on ProtoSim, a software to simulate the concentration variation of the internal materials of protocells.
-Together with a university research team, I am studying the origin of life! 💐
+♻️ Together with a university research team, I am studying the origin of life! 💐
 
 - 💻 I’m currently learning Python for Information Retrival and Data Science. In particular, I do research with sentiment analysis algorithms to develop a new search engine.
 Stay tuned! Just a hint: it's beer... 🍻 
 
 ## Programming Languages and Tools
-<div align="center" style="background-color: white; padding: 10px;">
+<div align="center">
   <img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" style="width:100px;height:120px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="width:100px;height:120px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="width:100px;height:100px;" />
