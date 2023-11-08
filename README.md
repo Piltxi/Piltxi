@@ -9,7 +9,7 @@ Together with a university research team, I am studying the origin of life! 💐
 Stay tuned! Just a hint: it's beer... 🍻 
 
 ## Programming Languages and Tools
-<div align="center">
+<div align="center" style="background-color: white; padding: 10px;">
   <img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" style="width:100px;height:120px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="width:100px;height:120px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="width:100px;height:100px;" />
