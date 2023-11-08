@@ -8,6 +8,8 @@
 - 💻 I’m currently learning Python for Information Retrival and Data Science. In particular, I do research with sentiment analysis algorithms to develop a new search engine.
 Stay tuned! Just a hint: it's beer... 🍻 
 
+✍🏻 In my repositories, you can find the projects that have given me the most satisfaction. 
+
 ## Programming Languages and Tools
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" style="width:120px;height:120px;" />
