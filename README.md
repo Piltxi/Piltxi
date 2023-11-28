@@ -6,7 +6,7 @@
 ♻️ Together with a university research team, I am studying the origin of life! 💐
 
 - 💻 I’m currently learning Python for Information Retrival and Data Science. In particular, I do research with sentiment analysis algorithms to develop a new search engine. 
-Stay tuned! **Just a hint: it's beer...** 🍻 
+Stay tuned! **Just a hint: it may be red, it may have bubbles. If it's a lot, it makes you sing.** 🍇
 
 ✍🏻 In my repositories, you can find the projects that have given me the most satisfaction. Feel free to explore: someone said *keep enchanted!* 🎨
 
