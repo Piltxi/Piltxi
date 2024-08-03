@@ -2,11 +2,8 @@
 
 <p align="center">I'm Elia Pitzalis, a computer enthusiast. I study computer science at the University of Modena and Reggio Emilia.</p>
 
-- 🐣 I’m currently working on **ProtoSim**, a software to simulate the concentration variation of the internal materials of protocells.
-♻️ Together with a university research team, I am studying the origin of life! 💐
-
-- 💻 I’m currently learning Python for Information Retrival and Data Science. In particular, I do research with sentiment analysis algorithms to develop a new search engine. 
-Stay tuned! **Just a hint: it may be red, it may have bubbles. If it's a lot, it makes you sing.** 🍇
+- 🐣 I recently obtained a bachelor's degree in computer science; as a final thesis, I developed **ProtoSim**__, a simulation software for studying biochemical environments:  a software to simulate the concentration variation of the internal materials of protocells. ♻️ Together with a university research team, I am studying the origin of life! 💐.
+- 🏨 Now I work in the pharmaceutical sector, developing applications for pharmacies in Italy; at the same time, I try to study to become a _master's degree_ in computer science 🍎
 
 ✍🏻 In my repositories, you can find the projects that have given me the most satisfaction. Feel free to explore: someone said *keep enchanted!* 🎨
 
